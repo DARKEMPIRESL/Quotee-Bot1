@@ -1,4 +1,1 @@
-pyrogram
-TgCrypto
-aiohttp
-requests
+python-telegram-bot==12.7
