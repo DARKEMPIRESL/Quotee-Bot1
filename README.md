@@ -1,6 +1,6 @@
 # Quotee-Bot
 
-## http://t.me/dark_Quotee_Bot
+## [dark_Quotee_Bot](http://t.me/dark_Quotee_Bot)
 
 - Send `/start` **or**
 - Tap on **START** button
