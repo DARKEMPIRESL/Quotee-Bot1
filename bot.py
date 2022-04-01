@@ -13,7 +13,7 @@ logging.basicConfig(
 
 logger = logging.getLogger(__name__)
 
-HEROKU_URL = 'https://dark_Quotee_Bot.herokuapp.com/'
+HEROKU_URL = 'https://quatee.herokuapp.com/'
 BOT_TOKEN = os.environ['5167132276:AAHYSSrThxZgnq4MdaVac83an_FcuK5kJAA']  # token generated from botfather
 
 # Define a few command handlers. These usually take the two arguments update and
